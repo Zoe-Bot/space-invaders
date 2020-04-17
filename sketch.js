@@ -3,6 +3,7 @@ let flowers = [];
 let drops = [];
 
 function setup() {
+    //canvas
     createCanvas(600, 400);
 
     //objects
